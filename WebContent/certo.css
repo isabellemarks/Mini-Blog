@@ -1,0 +1,18 @@
+h1 {
+	text-align: center;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#foto {
+	background-image: url(img/certo.png);
+	background-size: 100% 100%;
+	padding: 15% 1%;
+	background-repeat: no-repeat;
+	margin-left: 35%;
+	margin-right: 35%;
+}
+
+h2 {
+	text-align: center;
+}

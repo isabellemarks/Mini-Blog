@@ -1,0 +1,22 @@
+h1 {
+	text-align: center;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#foto404 {
+	background-image: url(img/404.jpg);
+	padding: 15% 1%;
+	background-repeat: no-repeat;
+	margin-left: 35%;
+	margin-right: 35%;
+}
+
+#foto500 {
+	background-image: url(img/500.png);
+	background-size: 90% 100%;
+	padding: 15% 1%;
+	background-repeat: no-repeat;
+	margin-left: 10%;
+	margin-right: 10%;
+}
